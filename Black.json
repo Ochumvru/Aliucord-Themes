@@ -1,0 +1,23 @@
+{
+    "manifest": {
+        "author": "phvntvstic",
+        "name": "Minimal Contrast",
+        "license": "(⁠灬⁠º⁠‿⁠º⁠灬⁠)⁠♡",
+        "version": "1.0.1"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {
+        "accent": -7895161,
+        "background": -16777216,
+        "background_secondary": -16777216,
+        "mention_highlight": 402653183,
+        "active_channel": 838860799,
+        "statusbar": -16777216
+    },
+    "colors": {},
+    "drawable_tints": {
+        "drawable_open_folder_dark": -15198184
+    },
+    "raws": {}
+}
